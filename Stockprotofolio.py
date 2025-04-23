@@ -1,6 +1,6 @@
 """
 File: Stock Portfolio Tracker.py
-Author: Revanth sai
+Author: veerakoteswararao 
 Created: April 13, 2025 
 """
 
