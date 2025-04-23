@@ -1,6 +1,6 @@
 """
 File: CodeAplha_Project_Hangman Game.py
-Author: Revanth Sai
+Author: veerakoteswararao 
 Created: April 13, 2025 
 """
 
