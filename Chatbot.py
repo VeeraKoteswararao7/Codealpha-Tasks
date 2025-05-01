@@ -51,7 +51,7 @@ for filename in os.listdir(folder_path):
 # Indicate completion of the task
 print("\n\nBackup and organization task completed.")
 
-Enter folder path: C:\Users\Revanthk45\Downloads
+Enter folder path: C:\Users\veerakoteswararao7\Downloads
 
 
 Backup and organization task completed.
